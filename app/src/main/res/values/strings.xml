@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Scrambled Salad</string>
+    <string name="password_title">Be a Doll</string>
+    <string name="default_folder">/storage/emulated/0/Podcasts/media/1</string>
+    <string name="log_filename">SS_LOG</string>
+    <string name="folder_key">folder</string>
+    <string name="password_key">password</string>
+    <string name="files_prefs">com.studios.hell.scrambledsalad_files_prefs</string>
+    <string name="system_prefs">com.studios.hell.scrambledsalad_system_prefs</string>
+    <string name="wrong_password_message">Wrong, Fucker</string>
+    <string name="new_password_title">Enter new password</string>
+    <string name="folder_dialog_title">Choose a file in the new folder (for lazy reasons)</string>
+</resources>
